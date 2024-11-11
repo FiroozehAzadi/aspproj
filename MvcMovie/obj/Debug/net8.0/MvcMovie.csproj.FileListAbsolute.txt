@@ -285,3 +285,4 @@ D:\aspproj\MvcMovie\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\aspproj\MvcMovie\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 D:\aspproj\MvcMovie\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\aspproj\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+D:\aspproj\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
