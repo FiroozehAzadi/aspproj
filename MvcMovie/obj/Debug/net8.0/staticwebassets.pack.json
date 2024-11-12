@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\726.jpg"
     },
     {
+      "Id": "D:\\aspproj\\MvcMovie\\wwwroot\\images\\726.png",
+      "PackagePath": "staticwebassets\\images\\726.png"
+    },
+    {
       "Id": "D:\\aspproj\\MvcMovie\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MGQzMAHWU2EolwUIuUobpfB4drWX2R2k6hnZNCB+AUg=",
+  "Hash": "33ZwU/AYNt99T6f/GGP+//Lshufih4qo3327OuzrcFA=",
   "Source": "MvcMovie",
   "BasePath": "_content/MvcMovie",
   "Mode": "Default",
@@ -1307,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\726.jpg"
+    },
+    {
+      "Identity": "D:\\aspproj\\MvcMovie\\wwwroot\\images\\726.png",
+      "SourceId": "MvcMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspproj\\MvcMovie\\wwwroot\\",
+      "BasePath": "_content/MvcMovie",
+      "RelativePath": "images/726.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\726.png"
     },
     {
       "Identity": "D:\\aspproj\\MvcMovie\\wwwroot\\js\\site.js",

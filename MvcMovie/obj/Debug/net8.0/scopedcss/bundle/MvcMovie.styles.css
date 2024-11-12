@@ -54,3 +54,7 @@ button.accept-policy[b-0uvum7rpp4] {
   justify-content: center;
   align-items: center;
 }
+img:hover[b-0uvum7rpp4]{
+  filter:brightness(0) invert(1)
+
+}
